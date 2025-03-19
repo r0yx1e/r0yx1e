@@ -8,4 +8,4 @@ Hello! I'm Roy
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0XY1E&show_icons=true&theme=ambient_gradient)](https://github.com/R0XY1E/R0XY1E)
 
 ### My Toolbox
-[![My Skills](https://skillicons.dev/icons?i=anaconda,arch,arduino,c,cpp,cloudflare,debian,docker,fastapi,git,github,html,js,linux,md,npm,vim,vscode)](https://github.com/R0XY1E)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,arch,arduino,bash,c,cpp,cloudflare,cmake,css,debian,docker,fastapi,figma,git,github,html,htmx,js,linux,md,mint,mysql,nginx,nodejs,npm,obsidian,pnpm,postman,py,react,swift,ts,ubuntu,vim,vite,vscode,vue,wasm,windows,)](https://github.com/R0XY1E)
